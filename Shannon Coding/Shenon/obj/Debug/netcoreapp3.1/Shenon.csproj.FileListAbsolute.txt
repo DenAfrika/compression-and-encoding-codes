@@ -1,0 +1,11 @@
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Shenon\Shenon\bin\Debug\netcoreapp3.1\Shenon.exe
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Shenon\Shenon\bin\Debug\netcoreapp3.1\Shenon.deps.json
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Shenon\Shenon\bin\Debug\netcoreapp3.1\Shenon.runtimeconfig.json
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Shenon\Shenon\bin\Debug\netcoreapp3.1\Shenon.runtimeconfig.dev.json
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Shenon\Shenon\bin\Debug\netcoreapp3.1\Shenon.dll
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Shenon\Shenon\bin\Debug\netcoreapp3.1\Shenon.pdb
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Shenon\Shenon\obj\Debug\netcoreapp3.1\Shenon.csprojAssemblyReference.cache
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Shenon\Shenon\obj\Debug\netcoreapp3.1\Shenon.AssemblyInfoInputs.cache
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Shenon\Shenon\obj\Debug\netcoreapp3.1\Shenon.AssemblyInfo.cs
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Shenon\Shenon\obj\Debug\netcoreapp3.1\Shenon.dll
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Shenon\Shenon\obj\Debug\netcoreapp3.1\Shenon.pdb

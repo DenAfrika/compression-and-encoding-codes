@@ -1,0 +1,11 @@
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Kode\Kode\bin\Debug\netcoreapp3.1\Kode.exe
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Kode\Kode\bin\Debug\netcoreapp3.1\Kode.deps.json
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Kode\Kode\bin\Debug\netcoreapp3.1\Kode.runtimeconfig.json
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Kode\Kode\bin\Debug\netcoreapp3.1\Kode.runtimeconfig.dev.json
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Kode\Kode\bin\Debug\netcoreapp3.1\Kode.dll
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Kode\Kode\bin\Debug\netcoreapp3.1\Kode.pdb
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Kode\Kode\obj\Debug\netcoreapp3.1\Kode.csprojAssemblyReference.cache
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Kode\Kode\obj\Debug\netcoreapp3.1\Kode.AssemblyInfoInputs.cache
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Kode\Kode\obj\Debug\netcoreapp3.1\Kode.AssemblyInfo.cs
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Kode\Kode\obj\Debug\netcoreapp3.1\Kode.dll
+D:\Univer\5 сем\3-TInf-IS-19\DZ\Kode\Kode\obj\Debug\netcoreapp3.1\Kode.pdb

@@ -1,0 +1,11 @@
+D:\Univer\5 сем\3-TInf-IS-19\DZ\GilbertMoore\GilbertMoore\bin\Debug\netcoreapp3.1\GilbertMoore.exe
+D:\Univer\5 сем\3-TInf-IS-19\DZ\GilbertMoore\GilbertMoore\bin\Debug\netcoreapp3.1\GilbertMoore.deps.json
+D:\Univer\5 сем\3-TInf-IS-19\DZ\GilbertMoore\GilbertMoore\bin\Debug\netcoreapp3.1\GilbertMoore.runtimeconfig.json
+D:\Univer\5 сем\3-TInf-IS-19\DZ\GilbertMoore\GilbertMoore\bin\Debug\netcoreapp3.1\GilbertMoore.runtimeconfig.dev.json
+D:\Univer\5 сем\3-TInf-IS-19\DZ\GilbertMoore\GilbertMoore\bin\Debug\netcoreapp3.1\GilbertMoore.dll
+D:\Univer\5 сем\3-TInf-IS-19\DZ\GilbertMoore\GilbertMoore\bin\Debug\netcoreapp3.1\GilbertMoore.pdb
+D:\Univer\5 сем\3-TInf-IS-19\DZ\GilbertMoore\GilbertMoore\obj\Debug\netcoreapp3.1\GilbertMoore.csprojAssemblyReference.cache
+D:\Univer\5 сем\3-TInf-IS-19\DZ\GilbertMoore\GilbertMoore\obj\Debug\netcoreapp3.1\GilbertMoore.AssemblyInfoInputs.cache
+D:\Univer\5 сем\3-TInf-IS-19\DZ\GilbertMoore\GilbertMoore\obj\Debug\netcoreapp3.1\GilbertMoore.AssemblyInfo.cs
+D:\Univer\5 сем\3-TInf-IS-19\DZ\GilbertMoore\GilbertMoore\obj\Debug\netcoreapp3.1\GilbertMoore.dll
+D:\Univer\5 сем\3-TInf-IS-19\DZ\GilbertMoore\GilbertMoore\obj\Debug\netcoreapp3.1\GilbertMoore.pdb

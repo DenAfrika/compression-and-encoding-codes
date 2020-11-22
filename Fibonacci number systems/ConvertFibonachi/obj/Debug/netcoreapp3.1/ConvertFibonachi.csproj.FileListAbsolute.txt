@@ -1,0 +1,22 @@
+D:\Univer\5 сем\3-TInf-IS-19\DZ\ConvertFibonachi\ConvertFibonachi\bin\Debug\netcoreapp3.1\ConvertFibonachi.exe
+D:\Univer\5 сем\3-TInf-IS-19\DZ\ConvertFibonachi\ConvertFibonachi\bin\Debug\netcoreapp3.1\ConvertFibonachi.deps.json
+D:\Univer\5 сем\3-TInf-IS-19\DZ\ConvertFibonachi\ConvertFibonachi\bin\Debug\netcoreapp3.1\ConvertFibonachi.runtimeconfig.json
+D:\Univer\5 сем\3-TInf-IS-19\DZ\ConvertFibonachi\ConvertFibonachi\bin\Debug\netcoreapp3.1\ConvertFibonachi.runtimeconfig.dev.json
+D:\Univer\5 сем\3-TInf-IS-19\DZ\ConvertFibonachi\ConvertFibonachi\bin\Debug\netcoreapp3.1\ConvertFibonachi.dll
+D:\Univer\5 сем\3-TInf-IS-19\DZ\ConvertFibonachi\ConvertFibonachi\bin\Debug\netcoreapp3.1\ConvertFibonachi.pdb
+D:\Univer\5 сем\3-TInf-IS-19\DZ\ConvertFibonachi\ConvertFibonachi\obj\Debug\netcoreapp3.1\ConvertFibonachi.csprojAssemblyReference.cache
+D:\Univer\5 сем\3-TInf-IS-19\DZ\ConvertFibonachi\ConvertFibonachi\obj\Debug\netcoreapp3.1\ConvertFibonachi.AssemblyInfoInputs.cache
+D:\Univer\5 сем\3-TInf-IS-19\DZ\ConvertFibonachi\ConvertFibonachi\obj\Debug\netcoreapp3.1\ConvertFibonachi.AssemblyInfo.cs
+D:\Univer\5 сем\3-TInf-IS-19\DZ\ConvertFibonachi\ConvertFibonachi\obj\Debug\netcoreapp3.1\ConvertFibonachi.dll
+D:\Univer\5 сем\3-TInf-IS-19\DZ\ConvertFibonachi\ConvertFibonachi\obj\Debug\netcoreapp3.1\ConvertFibonachi.pdb
+C:\Users\Денис\YandexDisk\University\5сем\3-TInf-IS-19\DZ\ConvertFibonachiYes\ConvertFibonachi\bin\Debug\netcoreapp3.1\ConvertFibonachi.exe
+C:\Users\Денис\YandexDisk\University\5сем\3-TInf-IS-19\DZ\ConvertFibonachiYes\ConvertFibonachi\bin\Debug\netcoreapp3.1\ConvertFibonachi.deps.json
+C:\Users\Денис\YandexDisk\University\5сем\3-TInf-IS-19\DZ\ConvertFibonachiYes\ConvertFibonachi\bin\Debug\netcoreapp3.1\ConvertFibonachi.runtimeconfig.json
+C:\Users\Денис\YandexDisk\University\5сем\3-TInf-IS-19\DZ\ConvertFibonachiYes\ConvertFibonachi\bin\Debug\netcoreapp3.1\ConvertFibonachi.runtimeconfig.dev.json
+C:\Users\Денис\YandexDisk\University\5сем\3-TInf-IS-19\DZ\ConvertFibonachiYes\ConvertFibonachi\bin\Debug\netcoreapp3.1\ConvertFibonachi.dll
+C:\Users\Денис\YandexDisk\University\5сем\3-TInf-IS-19\DZ\ConvertFibonachiYes\ConvertFibonachi\bin\Debug\netcoreapp3.1\ConvertFibonachi.pdb
+C:\Users\Денис\YandexDisk\University\5сем\3-TInf-IS-19\DZ\ConvertFibonachiYes\ConvertFibonachi\obj\Debug\netcoreapp3.1\ConvertFibonachi.csprojAssemblyReference.cache
+C:\Users\Денис\YandexDisk\University\5сем\3-TInf-IS-19\DZ\ConvertFibonachiYes\ConvertFibonachi\obj\Debug\netcoreapp3.1\ConvertFibonachi.AssemblyInfoInputs.cache
+C:\Users\Денис\YandexDisk\University\5сем\3-TInf-IS-19\DZ\ConvertFibonachiYes\ConvertFibonachi\obj\Debug\netcoreapp3.1\ConvertFibonachi.AssemblyInfo.cs
+C:\Users\Денис\YandexDisk\University\5сем\3-TInf-IS-19\DZ\ConvertFibonachiYes\ConvertFibonachi\obj\Debug\netcoreapp3.1\ConvertFibonachi.dll
+C:\Users\Денис\YandexDisk\University\5сем\3-TInf-IS-19\DZ\ConvertFibonachiYes\ConvertFibonachi\obj\Debug\netcoreapp3.1\ConvertFibonachi.pdb
